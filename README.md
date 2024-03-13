@@ -9,8 +9,8 @@
     - 교재: A Top-down approach
     - 강의: 한양대학교 이석복 교수님, 건국대학교 이향원 교수님의 강의 활용
     - 참고 자료: 
-     - [건국대 네트워크 kocw](http://www.kocw.net/home/cview.do?cid=c57810b2cd44c7d0)
-     - [한양대 네트워크 kocw](http://www.kocw.net/home/cview.do?cid=6b984f376cfb8f70)
+       - [건국대 네트워크 kocw](http://www.kocw.net/home/cview.do?cid=c57810b2cd44c7d0)
+       - [한양대 네트워크 kocw](http://www.kocw.net/home/cview.do?cid=6b984f376cfb8f70)
 
 
 <br/><br/>
